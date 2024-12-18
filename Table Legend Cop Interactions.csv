@@ -1,0 +1,48 @@
+LEGEND,,,,This tab explains what each column means and the data format it is expecting. This table categorizes incidents that had both firefighters and police on scene as a POLICE call
+,,,,
+,,,,
+Date,,,,Date of Incident in MM-DD-YYYY format
+Time,,,,Time of Incident in military time format HH:MM
+Street,,,,Full Street Address of Incident
+City,,,,City of Incident
+State,,,,State of Incident abbreviated to two letters such as NY which means New York
+Location Nickname,,,,"Commonly used alternative nickname of the location such as ""Blue"" or ""Big Blue"" or ""La Poubelle"""
+Streamer 1,,,,"YouTube channel name physically present on site. Do not include ""@"" symbol"
+Streamer 2,,,,"Additional YouTubers - add extra columns and name them accordingly (streamer 4, streamer 5, and so on) as needed"
+Streamer 3,,,,Additional YouTubers - add extra names as needed
+Call of Service,,,,Stated Reasons for Call As Verbalized By Cops 
+Incident ID,,,,Official incident ID number of the call of service that an officer hands out via business card on scene or obtained from official police report copy
+Cop 1 Serial ,,,,Badge Number of Cop present (serial number wherever badge numbers are meaningless). 
+Cop 1 First Name,,,,
+Cop 1 Middle Name,,,,"If no middle name, leave blank"
+Cop 1 Last Name,,,,
+Cop1 Rank,,,,
+Cop 1 Division,,,,
+Cop 2 Serial,,,,"Same as Cop 1 but added for extra cops. If no extra cops, leave blank"
+Cop 2 First Name,,,,
+Cop 2 Last Name,,,,
+Cop 2 Rank,,,,
+Cop 2 Division,,,,
+Cop 3 Serial,,,,
+Cop 3 First Name,,,,
+Cop 3 Last Name,,,,
+Cop 3 Rank,,,,
+Cop 3 Division,,,,
+Firefighter 1 Badge,,,,"Same as Cop 1 but for firefighters if present. If not present and if no extra firefighters present, leave blank"
+Firefighter 1 First Name,,,,
+Firefighter 1 Middle Name,,,,
+Firefighter 1 Last Name,,,,
+Firefighter 1 Rank,,,,
+Firefighter 1 Division,,,,
+Call of Service,,,,Official reason obtained from official CAD call records explaining why police showed up on scene
+Stream Link,,,,Link to YouTube/TikTok livestream from someone physically present on scene
+Has Video Clip Been Saved? Y/N,,,,Has video clip of the incident been saved as a raw .mp4 video file as well as uploaded to YouTube for archival? Type Y for yes or N for no
+Have Police Report? Y/N,,,,Do you have an official copy of the police report of the incident? Type Y for yes or N for no
+If No Police Report - Submitted FOIA?,,,,If no - was a FOIA request submitted with the specific police agency to get the copy? Type Y for yes or N for no
+Police Report FOIA Date MM-DD-YYYY,,,,"If the FOIA request was submitted, when was it submitted? Write it in MM-DD-YYYY format"
+Have CAD Call? (Y/N),,,,Same as police report but for official CAD call 
+If No CAD Call - Submitted FOIA?,,,,
+CAD Call FOIA Date MM-DD-YYYY,,,,
+Have Bodycam? Y/N,,,,See CAD call explanation
+If No Bodycam - Submitted FOIA? Y/N,,,,
+Bodycam FOIA Date MM-DD-YYYY,,,,
